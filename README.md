@@ -161,6 +161,25 @@ VITE_API_URL=http://localhost:4000
 - Extend backend logic for shipping, analytics, etc.
 
 ---
+## PROJECT PREVIEW
+![Home Page](frontend/src/assets/1.png)
+![Home Page](frontend/src/assets/2.png)
+![Home Page](frontend/src/assets/3.png)
+![Home Page](frontend/src/assets/4.png)
+![Home Page](frontend/src/assets/5.png)
+![Home Page](frontend/src/assets/6.png)
+![Home Page](frontend/src/assets/7.png)
+![Home Page](frontend/src/assets/8.png)
+![Home Page](frontend/src/assets/9.png)
+![Home Page](frontend/src/assets/10.png)
+![Home Page](frontend/src/assets/11.png)
+![Home Page](frontend/src/assets/12.png)
+![Home Page](frontend/src/assets/13.png)
+![Home Page](frontend/src/assets/14.png)
+![Home Page](frontend/src/assets/15.png)
+![Home Page](frontend/src/assets/16.png)
+![Home Page](frontend/src/assets/17.png)
+
 
 ## Author
 
